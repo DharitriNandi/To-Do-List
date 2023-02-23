@@ -1,7 +1,7 @@
 # To-Do-List
-Use HTML, CSS and JavaScript to create a "to-do list" to organize and prioritize your tasks.
-We can perform thr following functions:
-1- Add the task
-2- Delete a task
-3- Cut off a Task which is completed
 
+A simple to-do list webapp based on Javascript. It uses MDL library for front end components.<br>
+It has three tabs - Add Item, To-Do Tasks, Completed.<br>
+Add Item - Task can be added to the list of To-Do Tasks.<br>
+To-Do Tasks - Lists the current list of to-do of the user, has option to mark as completed and move to completed tab or delete it from the list altogether.<br>
+Completed - Lists the completed tasks of the user and an option to delete it from the list.<br>
